@@ -1,0 +1,1563 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+	<title>washington, DC cell phones - all classifieds &quot;iphone 4s&quot; - craigslist</title>
+
+	<meta name="description" content="washington, DC cell phones - all classifieds &quot;iphone 4s&quot; - craigslist">
+    <meta name="viewport" content="user-scalable=1;">
+	<link rel="alternate" type="application/rss+xml" href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;s=100&amp;srchType=A&amp;format=rss" title="RSS feed for craigslist | cell phones - all &quot;iphone 4s&quot; in washington, DC ">
+	<link type="text/css" rel="stylesheet" media="all" href="http://www.craigslist.org/styles/craigslist.css?v=cfcb7850f35888cf9a62ff3c12b7d09c">
+	
+    <script type="text/javascript" src="http://www.craigslist.org/js/jquery-1.4.2.js?v=24440aceff001a5f841b2d13677cd043"></script>
+    <script type="text/javascript" src="http://www.craigslist.org/js/toChecklist.js?v=e3e984077ad7f2ff720f8edb5106ad15"></script>
+    <script type="text/javascript" src="http://www.craigslist.org/js/jquery.form-defaults.js?v=421648d06bad2f29bbfc2f66c5205aeb"></script>
+    <script type="text/javascript" src="http://www.craigslist.org/js/tocs.js?v=548436faa1acb3cc64fe96b5c8d868dd"></script>
+    <script type="text/javascript">
+        var pagetype = 'tocs';
+        var pID = null;
+    </script>
+    <script type="text/javascript" src="http://www.craigslist.org/js/formats.js?v=0ce82611797620dd47db010ef752e126"></script>
+</head>
+
+<body class="toc">
+<a name="top"></a>
+
+<div class="bchead">
+	<span id="ef"><span id="timestamp" style="font-size:small;" title="hide/show images link now near search results.">Sun, 12 Aug 16:07:27</span>&nbsp;[ <a href="http://www.craigslist.org/about/help/">help</a> ] [ <a href="https://post.craigslist.org/c/wdc/S?lang=en">post</a> ]</span>
+	<a href="http://www.craigslist.org/about/sites">CL</a> &gt; <a href="/">washington, DC craigslist</a>    &gt; <a href="/moa/">cell phones - all</a>
+	<div id="satabs"> <a href="/search/moa?query=iphone%204s&amp;srchType=A">all washington, DC</a>  <a href="/search/moa/doc?query=iphone%204s&amp;srchType=A">district of columbia</a>  <a href="/search/moa/nva?query=iphone%204s&amp;srchType=A">northern virginia</a>  <a href="/search/moa/mld?query=iphone%204s&amp;srchType=A">maryland</a> </div>
+
+</div>
+
+<blockquote>
+<form action="/search/moa" id="searchform" method="get">
+
+	<script type="text/javascript"><!--
+		var catAbb = "moa";
+
+        function flipCatAndSubmit(cat) {
+            var sf = document.getElementById('searchform');
+            var cs = document.getElementById('catAbb');
+            for(var i=0; i < cs.length; i++) {
+                if(cs[i].value == cat) {
+                    cs[i].selected = true;
+                }
+            }
+            sf.submit();
+        }
+	//-->
+	</script> 
+
+    <fieldset id="searchfieldset">
+    <legend id="searchlegend">cell phones:&nbsp;<a href="javascript:flipCatAndSubmit('mob');">by-owner</a>&nbsp;|&nbsp;<a href="javascript:flipCatAndSubmit('mod');">by-dealer</a>&nbsp;|&nbsp;<b>both</b>&nbsp;</legend>
+	<table id="searchtable" width="100%" cellpadding="2" summary="">
+		<tr>
+			<td align="right" width="1">search for:</td>
+
+			<td colspan="2" width="30%"><input id="query" name="query" size="30" value="iphone 4s"> in:
+				<select id="catAbb" name="catAbb">
+
+					<option value="ccc">all community
+
+					<option value="eee">all event
+
+					<option value="sss">all for sale / wanted
+<option disabled value="">--
+<option value="ata"> antiques
+<option value="atd"> antiques - by dealer
+<option value="atq"> antiques - by owner
+<option value="ppa"> appliances
+<option value="ppd"> appliances - by dealer
+<option value="app"> appliances - by owner
+<option value="ard"> arts &amp; crafts - by dealer
+<option value="art"> arts &amp; crafts - by owner
+<option value="ara"> arts+crafts
+<option value="pta"> auto parts
+<option value="ptd"> auto parts - by dealer
+<option value="pts"> auto parts - by owner
+<option value="bad"> baby &amp; kid stuff - by dealer
+<option value="bab"> baby &amp; kid stuff - by owner
+<option value="baa"> baby+kids
+<option value="bar"> barter
+<option value="haa"> beauty+hlth
+<option value="bid"> bicycles - by dealer
+<option value="bik"> bicycles - by owner
+<option value="bia"> bikes
+<option value="boo"> boats
+<option value="bod"> boats - by dealer
+<option value="boa"> boats - by owner
+<option value="bka"> books
+<option value="bkd"> books &amp; magazines - by dealer
+<option value="bks"> books &amp; magazines - by owner
+<option value="bfa"> business
+<option value="bfd"> business/commercial - by dealer
+<option value="bfs"> business/commercial - by owner
+<option value="ctd"> cars &amp; trucks - by dealer
+<option value="cto"> cars &amp; trucks - by owner
+<option value="cta"> cars+trucks
+<option value="emq"> cds / dvds / vhs - by dealer
+<option value="emd"> cds / dvds / vhs - by owner
+<option value="ema"> cds/dvd/vhs
+<option value="moa" selected> cell phones
+<option value="mod"> cell phones - by dealer
+<option value="mob"> cell phones - by owner
+<option value="cla"> clothes+acc
+<option value="cld"> clothing &amp; accessories - by deal
+<option value="clo"> clothing &amp; accessories - by owne
+<option value="cba"> collectibles
+<option value="cbd"> collectibles - by dealer
+<option value="clt"> collectibles - by owner
+<option value="sya"> computers
+<option value="syd"> computers - by dealer
+<option value="sys"> computers - by owner
+<option value="ela"> electronics
+<option value="eld"> electronics - by dealer
+<option value="ele"> electronics - by owner
+<option value="grq"> farm &amp; garden - by dealer
+<option value="grd"> farm &amp; garden - by owner
+<option value="gra"> farm+garden
+<option value="ssq"> for sale by dealer
+<option value="sso"> for sale by owner
+<option value="zip"> free stuff
+<option value="fua"> furniture
+<option value="fud"> furniture - by dealer
+<option value="fuo"> furniture - by owner
+<option value="gms"> garage sales
+<option value="foa"> general
+<option value="fod"> general for sale - by dealer
+<option value="for"> general for sale - by owner
+<option value="had"> health and beauty - by dealer
+<option value="hab"> health and beauty - by owner
+<option value="hsa"> household
+<option value="hsd"> household items - by dealer
+<option value="hsh"> household items - by owner
+<option value="wan"> items wanted
+<option value="jwa"> jewelry
+<option value="jwd"> jewelry - by dealer
+<option value="jwl"> jewelry - by owner
+<option value="maa"> materials
+<option value="mad"> materials - by dealer
+<option value="mat"> materials - by owner
+<option value="mca"> motorcycles
+<option value="mcd"> motorcycles/scooters - by dealer
+<option value="mcy"> motorcycles/scooters - by owner
+<option value="msa"> music instr
+<option value="msd"> musical instruments - by dealer
+<option value="msg"> musical instruments - by owner
+<option value="pha"> photo+video
+<option value="phd"> photo/video - by dealer
+<option value="pho"> photo/video - by owner
+<option value="rva"> recreational vehicles
+<option value="rvd"> rvs - by dealer
+<option value="rvs"> rvs - by owner
+<option value="sga"> sporting
+<option value="sgd"> sporting goods - by dealer
+<option value="spo"> sporting goods - by owner
+<option value="tia"> tickets
+<option value="tid"> tickets - by dealer
+<option value="tix"> tickets - by owner
+<option value="tla"> tools
+<option value="tld"> tools - by dealer
+<option value="tls"> tools - by owner
+<option value="tad"> toys &amp; games - by dealer
+<option value="tag"> toys &amp; games - by owner
+<option value="taa"> toys+games
+<option value="vga"> video gaming
+<option value="vgd"> video gaming - by dealer
+<option value="vgm"> video gaming - by owner
+<option disabled value="">--
+
+					<option value="ggg">all gigs
+
+					<option value="hhh">all housing
+
+					<option value="jjj">all jobs
+
+					<option value="ppp">all personals
+
+					<option value="res">all resume
+
+					<option value="bbb">all services offered
+</select>
+			</td>
+
+			<td>
+				<label><input type="radio" name="srchType" value="T"
+					title="search only posting titles">title only</label>
+				<label><input type="radio" name="srchType" value="A" checked="checked"
+					title="search the entire posting">entire post</label>
+				<input type="submit" value="Search">
+			</td>
+		</tr>
+
+		<tr>
+			<td align="right" width="1">price:</td>
+			<td><input name="minAsk" class="min" size="6" value="">&nbsp;<input name="maxAsk" class="max" size="6" value="">&nbsp;</td>
+			<td id="hoodpicker"></td>
+			<td align="left"><label><input type="checkbox" name="hasPic" value="1">has image</label></td>
+		</tr>
+	</table>
+    </fieldset>
+</form>
+</blockquote>
+
+
+
+<blockquote>
+
+
+
+<div id="tocpix" style="float: left;">
+<span id="hideImgs"><a href="#" onclick="hideImgs();return false;"><strong>hide images</strong></a>&nbsp;</span><span id="showImgs"><a href="#" onclick="showImgs();return false;"><strong>show images</strong></a>&nbsp;</span>
+&nbsp;
+</div>
+<div>sort by  <strong>most recent</strong> <a href="/search/moa?sort=rel&amp;query=iphone 4s&amp;s=100&amp;srchType=A">best match</a> <a href="/search/moa?sort=priceasc&amp;query=iphone 4s&amp;s=100&amp;srchType=A">low price</a> <a href="/search/moa?sort=pricedsc&amp;query=iphone 4s&amp;s=100&amp;srchType=A">high price</a></div>
+				<h4 style="text-align: center;" class="ban">
+					<span style="float: left;"><a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A"><b>&lt;&lt; Prev</b></a>
+</span>
+					<span style="float: right;"><a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=200"><b>Next &gt;&gt;</b></a>
+</span>
+					<b>Found: 603 Displaying: 101 - 200</b>
+				<br>[ <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A">1</a> | <b>2</b> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=200">3</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=300">4</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=400">5</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=500">6</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=600">7</a> ]
+			</h4>
+
+		
+
+<!-- sphinx: 0.015977, csd: 0.039663, total: 0.05564 via 28f -->
+
+
+		<p class="row">
+			<span class="ih" id="images:5Ke5Fd5M93Ec3I53o7c7jc09080530d23118f.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3148954127.html">iPHONE 4(S) WHITE 64GB, GSM, AT&amp;T, Factory Unlocked.</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $700</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ia5Ge5H53G33Kb3M3c8b5294a6d160cf1de5.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3199455464.html">NEW iPhone 4S 16 GB Black UNLOCKED Free shipping!</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $549</span>
+            <span class="itempn"><font size="-1"> (DC - Glover Park)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ib5R55Me3K53I83M6c8bf359f93e544c1f2a.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3199427083.html">iPhone 4S</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $340</span>
+            <span class="itempn"><font size="-1"> (MD)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3199423889.html">IPhone 4s 64g</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $550</span>
+            <span class="itempn"><font size="-1"> (wheaton)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3199398110.html">iphone 4s virgin mobile never opened</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $450</span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5L65I55H63Kd3M83p7c8b49b3a79f04491945.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3199388709.html">New iPhone 4S 32GB Black (Unlocked)</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $650</span>
+            <span class="itempn"><font size="-1"> (Silver Spring, MD)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199372339.html">UNLOCKED iPhone 4S 64GB White. UNLOCKED. WORKS WITH ALL GSM CARRIERS</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $595</span>
+            <span class="itempn"><font size="-1"> (Northern Virginia)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199365427.html">UNLOCKED!!! iPhone 4S 16gb Black. WORKS WITH ALL GSM CARRIERS!!!</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $440</span>
+            <span class="itempn"><font size="-1"> (Northern Virginia)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199364204.html">UNLOCKED!!! iPhone 4S 16gb White. WORKS WITH ALL GSM CARRIERS!!!</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $440</span>
+            <span class="itempn"><font size="-1"> (Northern Virginia)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199355379.html">UNLOCKED!!! iPhone 4S 32gb Black. Works with all GSM carriers!!!</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $530</span>
+            <span class="itempn"><font size="-1"> (Northern Virginia)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5La5Ga5E13E23F73J7c8bcb846c8777c219c3.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mod/3199346039.html">***BRAND AND USED IPHONE, GALAXY, HTC ONE, ECT. -COME VISIT US ****</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $120</span>
+            <span class="itempn"><font size="-1"> (DMV)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mod/3181901130.html">iPhone 4 and 4S Color Swap, Get it done in under 30m!! 240-595-7669 </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (10120colesville rd,silverspring,md,20005)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> img</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Nf5R05M83Le3Ia3N7c7f8aa324b9ced918cf.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3141169606.html">iPhone 3GS 8GB *GRADE A* **UNLOCKED** *BLACK AND WHITE*</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $200</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Na5F65J53E33Ia3J9c7e7e8052abe34e158e.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3139962222.html">*Unlock your Samsung Galaxy Note &amp;samsung galaxy s2/3 instantly $25***</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I75Ee5Md3K43M63F4c8b417004f6f24210e7.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3199261334.html">In-box (sealed) NEW iPhone 4s 16GB Black</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $500</span>
+            <span class="itempn"><font size="-1"> (Capitol Hill)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ia5N55G33Ec3He3lbc8bedad4eb1bfef11c1.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199217903.html">UNLOCK ATT IPHONE 4S</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $20</span>
+            <span class="itempn"><font size="-1"> (Springfield, VA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Nd5Le5J33K33p73Nec8bb25687109183138c.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3199202711.html">Unlock Iphone 3gs, 4, 4s AT&amp;T</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $100</span>
+            <span class="itempn"><font size="-1"> (rockville)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3191964591.html">We buy brand new HTC,Samsung Galaxy,Bold 9900,iPhone 4s,iPad 3</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $430</span>
+            <span class="itempn"><font size="-1"> (Virginia-Maryland-Washingtondcc Wepickup)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5N25Ib5J23Ed3Ib3N7c7s674cfbb24a7c1ca4.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3168397384.html">* * * * BLACK IPHONE 4 16GB * * * *</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (FALLS CHURCH)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5F15Me5J93Ee3L93F8c8bc8aa0d30f6431ea2.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3199176192.html">Verizon iPhone 4 n Xbox 360 best offer</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $190</span>
+            <span class="itempn"><font size="-1"> (Upper marlboro)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I35L15Kd3G23K93N4c8bda04b54cb0611f17.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199170520.html">UNLOCKED BLACK iPHONE 4S FOR SPRINT 16GB CLEAN ESN</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (Manassas, VA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ie5O45R53n23G73Hcc7i9c50340a8a221e5b.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3147108883.html">Apple Iphone 4S White Gevey Unlocked At&amp;t phone</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $475</span>
+            <span class="itempn"><font size="-1"> (Vienna)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Nf5G75E93Ld3J63H7c8b1ce70278ce401696.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199149308.html">NEW Factory Unlocked IPhone 4S 16GB</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $529</span>
+            <span class="itempn"><font size="-1"> (Gaithersburg,MD. NoVa. DC)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ga5Y05Je3Ic3Fe3H1c8be457adf309ab19a5.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3199140366.html">Iphone 4 or 4s Cases</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $10</span>
+            <span class="itempn"><font size="-1"> (MD)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Kd5F35J93na3J53N2c7ud4e9899764081d7f.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3172057549.html">buy ANY iPhone 4s Bad ESN</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $1</span>
+            <span class="itempn"><font size="-1"> (Herndon/Reston)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5N45Kd5J83Kb3J93N1c7reb940004840d1f5e.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3166034072.html">iPhone Re Pair Specials</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $39</span>
+            <span class="itempn"><font size="-1"> (NoVa)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mod/3194271503.html">Uptown Unlocking. Unlocking All Cell Phones &amp; Unlock Sprint 2 Boost</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $10</span>
+            <span class="itempn"><font size="-1"> (NW DC)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3199057724.html">iphone 4s virgin mobile</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $450</span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I15Ef5Md3Ef3Kf3Ibc8bf9eb4c64afd81a26.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199053638.html">Samsung Galaxy S II SPRINT</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $299</span>
+            <span class="itempn"><font size="-1"> (Arlington / Tyson VA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3193950224.html">Buying BAD ESN# or BROKEN iphone 4, iphone 4s, Sprint, Verizon </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (DC, VA, MD)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Nc5W25Hf3Fd3J13Ncc7o2aba010173241b2a.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3161154704.html">GEVEY Ultra S sim card, Unlock any GSM &amp; CDMA (sprint/Verizon)</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $40</span>
+            <span class="itempn"><font size="-1"> (Vienna metro)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5F75Ha5Me3E33J23lfc8bdf8a91c403dd1763.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3199009385.html">Sprint iPhone 4 white</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $300</span>
+            <span class="itempn"><font size="-1"> (Annandale)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3188167303.html">White Samsung Galaxy Note ATT : For Trade</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $1</span>
+            <span class="itempn"><font size="-1"> (Annandale)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ib5Lb5X63Ge3N53H1c8b027671d2ce9e121f.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198993761.html">FACTORY Unlock any iPhone 3G, 3GS, 4 or 4S Takes Only 5-60 Minutes!</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $90</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Lc5G25F93E53n63Jcc7f0f9abf9d42711d8d.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3141164765.html">Unlock your iPhone 4S for AT&amp;T, Sprint, &amp; Verizon (ANY iOS)</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $50</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I15Ne5G63Fb3Id3N6c7d7092ee7544d41718.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3136967821.html">iPhone 3GS 16GB and 8GB *GRADE A* **UNLOCKED** *BLACK AND WHITE*</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $200</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5E65F95X63Ee3Me3J4c7j9ef31f3ca4281009.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3150587628.html">Apple iPhone 4S 16GB and 32GB *NEW* &amp; **UNLOCKED** *BLACK AND WHITE**</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $535</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5N45K15Fe3Ee3K13o8c7kb26d2c7274181706.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3151555864.html">Apple iPhone 4S 16GB and 32GB *NEW* &amp; **UNLOCKED** w/ Warranty Valid</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $535</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Gc5H15Mb3E83N83o1c8953147a8768bf11ba.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3194456761.html">Apple iPhone 4S 16GB and 32GB *NEW* &amp; **UNLOCKED** w/ Warranty</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $535</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I65K15Fd3Kc3Fb3H8c8b44a44e0e24131ae6.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mod/3198982978.html">Apple iPhone 4S 64GB</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $480</span>
+            <span class="itempn"><font size="-1"> (district of columbia )</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5If5Y45J93n03G93l1c842ea90b6cb5f61f50.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3184894976.html">Speck ToughSkin Rubberized Military Case for iPhone 4 - 4S</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $20</span>
+            <span class="itempn"><font size="-1"> (fairfax)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ib5Kb5Me3E63Ic3H6c8bcf65dbda6c951646.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3198944493.html">FACTORY UNLOCK IPHONE 4S</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $70</span>
+            <span class="itempn"><font size="-1"> (DC VA MD )</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3193709958.html">Verizon iPhone 4S 16GB clean esn like new</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $450</span>
+            <span class="itempn"><font size="-1"> (Woodbridge, VA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5L75F45Hb3Gc3Fe3oac8b1a4e7d49a05a1d2a.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3198910269.html">iPhone 4 32GB UNLOCKED</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $450</span>
+            <span class="itempn"><font size="-1"> (NOVA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198902560.html">Sprint Apple iPhone 4S/16GB </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $185</span>
+            <span class="itempn"><font size="-1"> (www.Preferbiz.com)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mod/3187218619.html">We buy brand new iPhone 4s,Blackberry 9900,9810,Samsung Galaxy,HTC </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $425</span>
+            <span class="itempn"><font size="-1"> (Maryland-Virginia-Washingtondc Wepickup)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I85K65Jc3n03M83Jac8b21a52440ec171c34.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198877937.html">iPhone 4S 32 GB AT&amp;T, black </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $260</span>
+            <span class="itempn"><font size="-1"> (www.Preferbiz.com)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3198854162.html">5 VERIZON GALAXY NEXUS AND 1 IPHONE 4S 16GB </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $1850</span>
+            <span class="itempn"><font size="-1"> (DC)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198845673.html">BrandNew Apple Factory Unlock Iphone 4S 32gb with Apple care till 2014</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (Annandale, VA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3189773710.html">&#9733; Iphone 3gs UNLOCKED + Box + Accessories</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $250</span>
+            <span class="itempn"><font size="-1"> (Springfield)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> img</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5L75F65R63K93M43J8c8bb8241f1f638e1c1a.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198829293.html">iPhone Unlock   4  4s    3gs    3g   2g </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (ARLINGTON,ALEXANDRIA,ANNANDALE,)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5N45Jd5Mb3F43Id3M5c8b627b894d533d112c.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198802830.html">White Chocolate Bar Case</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $2</span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198791985.html">SELLING 4 IPHONES (3 IPHONE 4, 1 IPHONE 4S) </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $1300</span>
+            <span class="itempn"><font size="-1"> (Chantilly Va)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ib5H35J93E43I93Ndc8bef1c111165971e11.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198787340.html">Hello Kitty Case</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $5</span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ge5Ec5M93E13F53I8c8b92ae03d697d0136a.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198779359.html">Louis Vuitton Iphone 4/4S case</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $20</span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198747950.html">IPHONE 4S Lost at LIMA LOUNGE DC Tues 8/07 *Reward</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (Northern va DC are)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3183176725.html">Wanted:   White  Iphone   4S  or Samsung Note</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $250</span>
+            <span class="itempn"><font size="-1"> (Annandale)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198724342.html">Like New never been scratched iPhone 4s trade for Galaxy Note T-mobile</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (Woodbridge )</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5M15S45J73Ee3M13Ldc8bec995d03baba1c93.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3198714209.html">unlock iphone 4/4s</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $100</span>
+            <span class="itempn"><font size="-1"> (wheaton)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3198645139.html">AT&amp;T iPhone 4S black 16gb mint want to trade for galaxy s 3 AT&amp;T </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $500</span>
+            <span class="itempn"><font size="-1"> (hyattsville)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198584071.html">iPhone 4s 16GB Black</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $450</span>
+            <span class="itempn"><font size="-1"> (Fort Belvoir)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3198574237.html">Iphone 4s sprint </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $300</span>
+            <span class="itempn"><font size="-1"> (New Carrolton )</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3198572611.html">iphone 4s 16gb Sprint</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $350</span>
+            <span class="itempn"><font size="-1"> (Washington Dc)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5L25H75Jb3E13J93N4c7fc5f4d1edd70d1f7b.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3140910111.html">***Unlock your Samsung Galaxy Note &amp; samsung galaxy s2/3   $25********</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5U55F95H33Lc3Ff3Ncc8be77e1c6b026b1279.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198551126.html">Iphone 4s Black AT&amp;T 16gb 1 months old with extras!! ($500/obo)</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $1</span>
+            <span class="itempn"><font size="-1"> (Manassas Park)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198518860.html">IPHONE 4S Verizon 16gb BLACK</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $275</span>
+            <span class="itempn"><font size="-1"> (DUMFRIES)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198509227.html">Iphone 4S VERIZON 16gb white</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $275</span>
+            <span class="itempn"><font size="-1"> (Dumfries)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5N95G45K23G13Kb3oac8b23a6474565c1180f.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198504929.html">iPhone 4S 32 GB AT&amp;T, black</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $260</span>
+            <span class="itempn"><font size="-1"> (www.Ardentbuy.com)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Le5Ge5M13Gb3Ie3H1c8bb323d851f2671c84.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198503898.html">**CRACKED IPHONE,IPOD,IPAD,HTC,SAMSUNG,LG,BLACKBERRY REPAIR-UNLOCK****</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $39</span>
+            <span class="itempn"><font size="-1"> (6269 LEESBURG PIKE,FALLS CHURCH,VA 22044)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3179682467.html">IPHONE 4S SCREEN REPAIRS BY PROFESSIONALS @ IFIX 571-522-4349</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $80</span>
+            <span class="itempn"><font size="-1"> (VIENNA VA)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198501380.html">IPHONE 4S FACTORY UNLOCK BRAND NEW</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $600</span>
+            <span class="itempn"><font size="-1"> (WOODBRIDGE VA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5N25Eb5Hc3K13La3lbc8bf94578d944a51470.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198489016.html">iPhone 4s, 32 gb, CMDA, Mint Condition</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $250</span>
+            <span class="itempn"><font size="-1"> (www.Ardentbuy.com)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5G95E15J23Eb3Ke3N2c880cdd47272fb91144.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3192126888.html">~*~*~*~*~ WE FIX IPHONES AND SMARTPHONES ~*~*~*~*~* </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $69</span>
+            <span class="itempn"><font size="-1"> (FALLS CHURCH)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Kd5Fc5H43n33K23F7c8b5db7c95b32fa182f.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198481268.html">iPhone 4S 16GB Black Verizon</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (Leesburg)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3198423473.html">smartphone armband</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $20</span>
+            <span class="itempn"><font size="-1"> (gaithersburg, md)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> img</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I15G65E83E73F53o7c8b89db9e9aaf8b1515.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198422478.html">Looking to trade my black 32gb iphone 4 with iphone 4s</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (Alexandria)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5F25X25M53G93If3l8c8b22d83051ba491658.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198411636.html">@@@ Brand NEW iPhone 4 32 GB SALE/TRADE- MUST GO TODAY!!! @@@</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (Falls Church)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mod/3179254095.html">FACTORY UNLOCK IPHONE 4 AND 4S ANY FIRMWARE AND VERSION! SAME DAY </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $90</span>
+            <span class="itempn"><font size="-1"> (DC METRO AREA)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5G85Fe5Mf3K13G13Nbc89f724fe0af33519db.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3193781729.html">32gb Iphone 4S (att/verizon)</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Q15H85P63F23L83J2c8b8b2a9e03d7e910ca.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198347799.html">**WEEKEND SPECIAL** ALL IPHONES FIXING (SAME DAY REPAIR/QUICK SERVICE)</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (WOODBRIDGE)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3186053820.html">Used IPHONE 4S 32GB SPRINT-BLACK</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $450</span>
+            <span class="itempn"><font size="-1"> (ALEXANDRIA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5L15I95G63Id3L73H4c8b9cea44ab686414e3.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3198321594.html">iPhone 4S Sprint</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (Rockville)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5I15Kc5M33Gb3M23Jec8ba91f5cdb76fc1d23.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198320365.html">ATT Black Iphone 4S 16Gb (unlockable by using gevey sim)</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (Falls Church)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3157527646.html">Verizon Apple iPhone 4S 16GB black clean ESN</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $460</span>
+            <span class="itempn"><font size="-1"> (Woodbridge VA)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3198290957.html">iPhone 4s 16gb Black Verizon unlock</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (Hyasttville )</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5G45Ke5P03Gf3L33Ndc8b07d6487b83b31b9e.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198281961.html">**CRACKED IPHONE,IPOD,IPAD,HTC,SAMSUNG,LG,BLACKBERRY REPAIR-UNLOCK****</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $39</span>
+            <span class="itempn"><font size="-1"> (6269 LEESBURG PIKE,FALLS CHURCH,VA 22044)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5N25Kf5J93E93I73L3c8b3cfd976e4e101982.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3198252603.html">Apple iPhone 4 32GB Black AT&amp;T</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $300</span>
+            <span class="itempn"><font size="-1"> (Bethesda/Rockville)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5L45Nc5Ed3kd3J83o3c8b4ec1121fabfd10fc.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198157363.html">USB Sync Data Charging Charger Cable Cord for All Apple iPhones</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $2</span>
+            <span class="itempn"><font size="-1"> (Annandale/Springfield)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5L45G45Mb3Gf3Nf3Hec8b3bd54d3dfeaa1e93.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198151393.html">unlock, jail break, iphone,</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $2570</span>
+            <span class="itempn"><font size="-1"> (2409936421 chantilly/woodbridge/fairfax)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ke5F55Je3M93J13H5c8bdc9db3f26891130d.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198148604.html">Droid Galaxy Nexus VERIZON never used in box in plastic for sale or trade</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $400</span>
+            <span class="itempn"><font size="-1"> (Alexandria)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Lf5N35F93k23L93J9c8b447ab4dadea517c7.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mod/3198148514.html">JAIL BREAK YOUR IPHONE</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $25</span>
+            <span class="itempn"><font size="-1"> (CHANTILLY/WOODBRIDGE)</font></span>
+            <span class="itemcg" title="mod"> <small class="gc"><a href="/mod/">cell phones - by dealer</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Y45G85Kc3E63Mb3m6c8b5fb52b86d10d1c7e.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/doc/mob/3198121385.html">Brand new white iphone 4s 16GB</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $380</span>
+            <span class="itempn"><font size="-1"> (anywhere around dc area)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3179238590.html">iPhone 4s 32gb Black UNLOCKED</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $450</span>
+            <span class="itempn"><font size="-1"> (Manassas)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3189954152.html">Buying back cracked or shattered iphone 4 , 4s </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $100200</span>
+            <span class="itempn"><font size="-1"> (fairfax herndon chantilly sterling)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3190637022.html">I will buy back Broken iphones   TEXT ME OR CALL. </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (fairfax herndon chantilly sterling)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3190722048.html">SELL YOUR BROKEN IPHONE 4 AND 4S TO ME TODAY $100 AND $200</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (FAIRFAX HERNDON CHANTILLY STERLING)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3192231742.html">Do you have a broken iphone 4 or 4s ?  I would like to buy it.</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"><font size="-1"> (fairfax herndon chantilly sterling)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3192780753.html">I buy back broken cracked iPhone 4 and 4s </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"></span>
+            <span class="itempn"></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih">&nbsp;</span>
+			<span class="itemdate"> Aug 11</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/nva/mob/3198029042.html">Want a new case for your phone and cheap !!! Well look here read read </a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $10</span>
+            <span class="itempn"><font size="-1"> (DMV )</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"></span>
+            <br class="c">
+		</p>
+		<p class="row">
+			<span class="ih" id="images:5Ia5Y25Jf3M53p13Nfc881ef2bea091f516d3.jpg">&nbsp;</span>
+			<span class="itemdate"> Aug 10</span>
+            <span class="itemsep"> - </span>
+            <a href="http://washingtondc.craigslist.org/mld/mob/3193434660.html">iPhone 4S 32gb!! AT&amp;T, unlockable</a>
+            <span class="itemsep"> - </span>
+			<span class="itemph"></span>
+            <span class="itempp"> $500</span>
+            <span class="itempn"><font size="-1"> (Rockville, MD)</font></span>
+            <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
+            <span class="itempx"> <span class="p"> pic&nbsp;img</span></span>
+            <br class="c">
+		</p><br><div>sort by  <strong>most recent</strong> <a href="/search/moa?sort=rel&amp;query=iphone 4s&amp;s=100&amp;srchType=A">best match</a> <a href="/search/moa?sort=priceasc&amp;query=iphone 4s&amp;s=100&amp;srchType=A">low price</a> <a href="/search/moa?sort=pricedsc&amp;query=iphone 4s&amp;s=100&amp;srchType=A">high price</a></div>
+				<h4 style="text-align: center;" class="ban">
+					<span style="float: left;"><a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A"><b>&lt;&lt; Prev</b></a>
+</span>
+					<span style="float: right;"><a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=200"><b>Next &gt;&gt;</b></a>
+</span>
+					<b>Found: 603 Displaying: 101 - 200</b>
+				<br>[ <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A">1</a> | <b>2</b> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=200">3</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=300">4</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=400">5</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=500">6</a> | <a href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;srchType=A&amp;s=600">7</a> ]
+			</h4>
+
+		
+
+
+
+<div id="footer">
+	<hr>
+	<span id="copy">
+		Copyright &copy; 2012 craigslist, inc.<br>
+	</span>
+	<span class="rss">
+		<a class="l" href="http://washingtondc.craigslist.org/search/moa?query=iphone 4s&amp;s=100&amp;srchType=A&amp;format=rss">RSS</a>
+		<a href="http://www.craigslist.org/about/rss">(?)</a><br>
+	</span>
+</div>
+<br><br>
+
+<div id="floater">&nbsp;</div>
+
+</blockquote>
+<script type="text/javascript">
+<!--
+window.tocpix=1
+-->
+</script>
+
+</body>
+</html>
