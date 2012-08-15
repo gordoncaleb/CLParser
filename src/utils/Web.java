@@ -11,6 +11,10 @@ import org.apache.http.impl.client.DefaultHttpClient;
 
 public class Web {
 	
+	public static void main(String[] args){
+		System.out.println(getPage("http://washingtondc.craigslist.org/search/moa?query=Iphone%204s&srchType=A"));
+	}
+	
 	public static String getPage(String url) {
 		
 		System.out.println("Getting page " + url);
@@ -36,6 +40,10 @@ public class Web {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+		
+		System.out.println("page downloaded!");
+		
+		//System.out.println(page);
 		
 		return page;
 

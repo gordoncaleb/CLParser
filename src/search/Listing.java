@@ -4,10 +4,12 @@ public class Listing {
 
 	private String date;
 	private String title;
-	private int price;
+	private Integer price;
 	private String subLocation;
 	private String cat;
 	private String by;
+
+	private String detailURL;
 
 	public Listing() {
 
@@ -35,12 +37,27 @@ public class Listing {
 		this.title = title;
 	}
 
-	public int getPrice() {
+	public Integer getPrice() {
 		return price;
 	}
 
 	public void setPrice(int price) {
 		this.price = price;
+	}
+
+	public void setPrice(String price) {
+
+		if (price.length() == 0) {
+			this.price = null;
+			return;
+		}
+
+		try {
+			this.price = Integer.parseInt(price.replace("$", "").trim());
+		} catch (Exception e) {
+			this.price = null;
+			System.out.println("Error parsing price for :" + price);
+		}
 	}
 
 	public String getSubLocation() {
@@ -65,6 +82,18 @@ public class Listing {
 
 	public void setBy(String by) {
 		this.by = by;
+	}
+
+	public String getDetailURL() {
+		return detailURL;
+	}
+
+	public void setDetailURL(String detailURL) {
+		this.detailURL = detailURL;
+	}
+
+	public String toString() {
+		return "Title: " + title + "\nPrice: " + price + "\nDate: " + date;
 	}
 
 }

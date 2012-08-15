@@ -1,5 +1,6 @@
 package parser;
 
+import java.io.ByteArrayInputStream;
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -10,12 +11,15 @@ import javax.xml.parsers.ParserConfigurationException;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
+import org.xml.sax.InputSource;
 import org.xml.sax.SAXException;
 
 import search.Listing;
 import utils.FileIO;
 
 public class PageParser {
+
+	private static final String xmlprepend = "<?xml version=\"1.0\" encoding=\"UTF-8\"?> <!DOCTYPE some_name [ <!ENTITY nbsp \"&#160;\"> ]>";
 
 	public static void main(String[] args) {
 
@@ -30,32 +34,43 @@ public class PageParser {
 
 		// parse listings from sb
 
-		int next;
-		int end;
-		String l;
+		System.out.println("Getting listings for page");
+		int start = 0;
+		int end = 0;
+
 		Listing listing;
 
-		String startTag = "<p class=\"row\">";
+		String startTag = "<p class=\"row\"";
 		String endTag = "</p>";
 
-		while ((next = page.indexOf(startTag)) != -1) {
+		StringBuilder l;
+		StringBuilder sb = new StringBuilder(page);
 
-			page = page.substring(next);
-			end = page.indexOf(endTag) + endTag.length();
+		while ((start = sb.indexOf(startTag, end)) != -1) {
 
-			l = page.substring(0, end);
+			// sb.delete(0, start);
+			end = sb.indexOf(endTag, start) + endTag.length();
+
+			l = new StringBuilder(xmlprepend + sb.substring(start, end));
 
 			listing = parseListing(l);
 
 			if (listing != null) {
 				listings.add(listing);
 			}
+
 		}
+		
+		System.out.println("Got " + listings.size() + " listings");
 
 		return listings;
 	}
 
-	private static Listing parseListing(String l) {
+	private static Listing parseListing(StringBuilder l) {
+
+		html2xhtml(l);
+
+		// System.out.println(l);
 		Listing listing = new Listing();
 		DocumentBuilderFactory dbf = DocumentBuilderFactory.newInstance();
 
@@ -65,21 +80,40 @@ public class PageParser {
 			DocumentBuilder db = dbf.newDocumentBuilder();
 
 			// parse using builder to get DOM representation of the XML file
-			Document dom = db.parse(l);
+			Document dom = db.parse(new InputSource(new ByteArrayInputStream(l.toString().getBytes("utf-8"))));
 
 			Element docEle = dom.getDocumentElement();
 
-			NodeList nl = docEle.getElementsByTagName("p");
+			NodeList spans = docEle.getElementsByTagName("span");
 
-			if (nl != null && nl.getLength() > 0) {
-				for (int i = 0; i < nl.getLength(); i++) {
+			Element el;
+			String classid;
+			String value;
 
-					Element el = (Element) nl.item(i);
+			if (spans != null && spans.getLength() > 0) {
+				for (int i = 0; i < spans.getLength(); i++) {
 
-					String classid = el.getAttribute("class");
-					String value = el.getFirstChild().getNodeValue();
+					el = (Element) spans.item(i);
 
+					classid = el.getAttribute("class");
+
+					if (el.getFirstChild() != null) {
+						value = el.getFirstChild().getNodeValue();
+					} else {
+						value = "";
+					}
+
+					setListingValue(listing, classid, value);
 				}
+			}
+
+			NodeList as = docEle.getElementsByTagName("a");
+
+			if (as != null && as.getLength() > 0) {
+				el = (Element) as.item(0);
+
+				listing.setDetailURL(el.getAttribute("href"));
+				listing.setTitle(el.getFirstChild().getNodeValue());
 			}
 
 		} catch (ParserConfigurationException pce) {
@@ -90,11 +124,37 @@ public class PageParser {
 			ioe.printStackTrace();
 		}
 
+		System.out.println(listing.toString());
 		return listing;
 	}
 
 	private static void setListingValue(Listing listing, String classid, String value) {
+		if (classid.equals("itemdate")) {
+			listing.setDate(value);
+		} else {
+			if (classid.equals("itempp")) {
+				listing.setPrice(value);
+			}
+		}
+	}
 
+	/**
+	 * Adds end tag </br> for html's start tag <br>
+	 * . XML tags have to have end tags.
+	 * 
+	 * @param sb
+	 *            html string to be converted
+	 */
+	private static void html2xhtml(StringBuilder sb) {
+		int start = 0;
+		int end = 0;
+
+		while ((start = sb.indexOf("<br", end)) >= 0) {
+			end = sb.indexOf(">", start);
+			if (end > 0) {
+				sb.insert(end + 1, "</br>");
+			}
+		}
 	}
 
 }

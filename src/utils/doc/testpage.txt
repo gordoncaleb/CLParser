@@ -237,6 +237,7 @@
             <span class="itempn"><font size="-1"> (Springfield)</font></span>
             <span class="itemcg" title="mob"> <small class="gc"><a href="/mob/">cell phones - by owner</a></small></span>
             <span class="itempx"> <span class="p"> pic</span></span>
+            <br class="c">
 		</p>
 		<p class="row">
 			<span class="ih" id="images:5Ia5Ge5H53G33Kb3M3c8b5294a6d160cf1de5.jpg">&nbsp;</span>
