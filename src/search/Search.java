@@ -1,6 +1,11 @@
 package search;
 
+import gui.JGeoMap;
+
+import java.awt.BorderLayout;
 import java.util.ArrayList;
+
+import javax.swing.JFrame;
 
 import parser.City;
 import parser.PageParser;
@@ -20,53 +25,46 @@ public class Search {
 
 	public static void main(String[] args) {
 
+		JFrame frame = new JFrame("Map");
+		frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+		frame.setLayout(new BorderLayout());
+
+		JGeoMap map = new JGeoMap();
+		frame.add(map, BorderLayout.CENTER);
+		frame.setSize(map.getImageWidth(), map.getImageHeight());
+
+		frame.setVisible(true);
+
 		Search sdc = new Search();
 
-		sdc.setCity(City.WASHINGTONDC);
-		sdc.setProductName("Iphone 4s");
-		sdc.setMaxListings(100);
+		String product = "iphone 4s";
+		int maxListings = 400;
+		int filterMin = 300;
+		int filterMax = 900;
 
-		ArrayList<Listing> dcResults = sdc.search();
-		ArrayList<Listing> filteredDCResults = new ArrayList<Listing>();
+		City[] cities = City.getCities();
 
-		int filteredDCTot = 0;
+		// for (int i = 0; i < cities.length; i++) {
+		// map.addGeoObject(cities[i]);
+		// }
+		Results[] filteredResults = new Results[cities.length];
 
-		for (Listing l : dcResults) {
-			System.out.println(l);
+		for (int i = 0; i < cities.length; i++) {
 
-			if (l.getPrice() != null) {
-				if (l.getPrice() > 100 && l.getPrice() < 900) {
-					filteredDCResults.add(l);
-					filteredDCTot += l.getPrice();
-				}
-			}
+			sdc.setCity(cities[i].getName());
+			sdc.setProductName(product);
+			sdc.setMaxListings(maxListings);
+
+			Results results = new Results(sdc.search());
+			filteredResults[i] = results.filterByPrice(filterMin, filterMax);
+			filteredResults[i].setCity(cities[i]);
+			map.addGeoObject(filteredResults[i]);
+
+			System.out.println("Average of " + filteredResults[i].size() + " listings in " + cities[i].getName() + " for " + product + " is : "
+					+ filteredResults[i].getAverage());
 		}
 
-		Search sbay = new Search();
-
-		sbay.setCity(City.SFBAY);
-		sbay.setProductName("Iphone 4s");
-		sbay.setMaxListings(100);
-
-		ArrayList<Listing> sfbayResults = sbay.search();
-		ArrayList<Listing> filteredSFResults = new ArrayList<Listing>();
-
-		int filteredSFTot = 0;
-
-		for (Listing l : sfbayResults) {
-			System.out.println(l);
-
-			if (l.getPrice() != null) {
-				if (l.getPrice() > 100 && l.getPrice() < 900) {
-					filteredSFResults.add(l);
-					filteredSFTot += l.getPrice();
-				}
-			}
-		}
-		
-		
-		System.out.println("Average in DC for Iphone 4s = " + filteredDCTot / filteredDCResults.size());
-		System.out.println("Average in SF Bay for Iphone 4s = " + filteredSFTot / filteredSFResults.size());
+		map.repaint();
 
 	}
 

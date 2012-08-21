@@ -1,5 +1,6 @@
 package utils;
 
+import java.awt.image.BufferedImage;
 import java.io.BufferedReader;
 import java.io.File;
 import java.io.IOException;
@@ -7,8 +8,11 @@ import java.io.InputStreamReader;
 import java.net.MalformedURLException;
 import java.net.URL;
 
+import javax.imageio.ImageIO;
+import javax.swing.ImageIcon;
+
 public class FileIO {
-	
+
 	/**
 	 * Fetch the entire contents of a text file, and return it in a String. This
 	 * style of implementation does not throw Exceptions to the caller.
@@ -69,6 +73,27 @@ public class FileIO {
 		}
 
 		return contents.toString();
+	}
+
+	public static BufferedImage getImage(String path) {
+
+		java.net.URL imgURL = FileIO.class.getResource(path);
+
+		if (imgURL != null) {
+
+			try {
+				return ImageIO.read(imgURL);
+			} catch (IOException e) {
+				e.printStackTrace();
+			}
+			
+			return null;
+
+		} else {
+			System.err.println("Couldn't find file: " + path);
+			return null;
+		}
+
 	}
 
 }
